@@ -17,7 +17,6 @@ header a {
     background-color: #fff3ff;
 }
 
-.nav_link:hover {}
 
 #logo {
     position: relative;
@@ -73,8 +72,4 @@ nav ul li:hover {
     height: 100%;
     float: left;
     margin: 0;
-}
-
-.content title {
-    font-weight: ;
 }
