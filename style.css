@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 body {
     background-color: #EFEFEF;
     color: #1F1C1C;
@@ -16,13 +17,6 @@ body {
     padding-right: 15px;
     margin: 0 auto;
 }
-
-/* #logo img {
-    width: 150px;
-    height: 80px;
-    margin: 10px;
-    position: absolute;
-} */
 
 .nav {
     display: flex;
